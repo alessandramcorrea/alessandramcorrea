@@ -1,7 +1,8 @@
 - 👋 Oiii, eu sou a Alessandra  - @alessandramcorrea
 - Meus interesses são: Leitura, jogos e aprender coisas novas.
 - Leitura do momento: Entendendo Algoritimos - Aditya Y. Bhargava.  
-- 4º Semestre de Analise e Desenvolvimeto de Sistemas.     
+- 4º Semestre de Analise e Desenvolvimeto de Sistemas.
+- https://alessandramcorrea.github.io/projetoDiscoverRocketseat/ (ultimo projeto)   
 - 📫 Contato: alessamagalhaesc@gmail.com
 
 <!---
