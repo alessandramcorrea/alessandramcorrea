@@ -1,5 +1,5 @@
 - 👋 Oiii, eu sou a Alessandra  - @alessandramcorrea
-- - 4º Semestre de Analise e Desenvolvimeto de Sistemas.
+- 4º Semestre de Analise e Desenvolvimeto de Sistemas.
 - Leitura do momento: Entendendo Algoritimos - Aditya Y. Bhargava.  
 - 📫 Contato: alessamagalhaesc@gmail.com
 
